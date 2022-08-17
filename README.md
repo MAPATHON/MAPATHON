@@ -12,16 +12,16 @@
 <br />
 <br />
 
-Hi, I'm Rishabh , a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
+Hi, I'm Rishabh , a Chemical Engineer and A Data Science enthusiast  🚀 from India, currently, I'm a undergrad boy 🙍🏽‍♂️ [@GSPACE], Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
-- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
+- 👨🏽‍💻 I’m currently working on Tools in Data SCience ;
+- 🌱 I’m currently learning Data Structures and Algorithms ; 
+- 👯 I’m looking to collaborate on ML project 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
-- 📫 How to reach me: adarshreddy9849@gmail.com;
-- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
-- i liove in jhansi
+- 📫 How to reach me: 21f2001144@student.onlinedegree.iitm.ac.in;
+- 📝[Resume](
+- i live in jhansi
