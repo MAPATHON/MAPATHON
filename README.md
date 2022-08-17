@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Rishabh Singh RAjpoot   cr!](https://adarshreddyash.github.io) 
+### Hey 👋🏽, I'm [Rishabh Singh RAjpoot!] 
 
 <a href="https://twitter.com/RISHABH27883186">
   <img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
