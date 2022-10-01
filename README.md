@@ -23,7 +23,7 @@ Hi, I'm Rishabh , a Chemical Engineer and A Data Science enthusiast  🚀 from I
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
 - 📫 How to reach me: 21f2001144@student.onlinedegree.iitm.ac.in
-                       rishabh20021206@gmail.com
+                       rishabhsingh20021206@gmail.com
 - 📝[Resume]
 - i live in jhansi
 
