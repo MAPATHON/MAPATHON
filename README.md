@@ -16,13 +16,12 @@ Hi, I'm Rishabh , a Chemical Engineer and A Data Science enthusiast  🚀 from I
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Tools in Data SCience ;
+- 👨🏽‍💻 I’m currently working on Tools in Data Science ;
 - 🌱 I’m currently learning Data Structures and Algorithms ; 
 - 👯 I’m looking to collaborate on ML project 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 21f2001144@student.onlinedegree.iitm.ac.in
-                       rishabhsingh20021206@gmail.com
 - 📝[Resume]:https://drive.google.com/file/d/1hvr4Ss6skbMGVayRngt3bjkpGDAmSAS1/view?usp=sharing
 - i live in jhansi
 
