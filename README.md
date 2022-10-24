@@ -25,4 +25,7 @@ Hi, I'm Rishabh , a Chemical Engineer and A Data Science enthusiast  🚀 from I
 - 📝[Resume]:https://drive.google.com/file/d/1hvr4Ss6skbMGVayRngt3bjkpGDAmSAS1/view?usp=sharing
 - i live in jhansi
 
+[![@mapathon's Holopin board](https://holopin.me/mapathon)](https://holopin.io/@mapathon)
+
+
 
