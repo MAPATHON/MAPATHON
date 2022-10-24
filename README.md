@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Rishabh , a Chemical Engineer and A Data Science enthusiast  🚀 from India, currently, I'm a undergrad boy 🙍🏽‍♂️ [@GSPACE], Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
+Hi, I'm Rishabh , a Chemical Engineer and A Data Science enthusiast  🚀 from India, currently, I'm a undergrad boy 🙍🏽‍♂️, Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
   
 **Talking about Personal Stuffs:**
 
